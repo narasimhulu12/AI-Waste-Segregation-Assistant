@@ -1,0 +1,37 @@
+item,category,disposal
+plastic bottle,Dry Waste,Recycle in dry waste bin
+plastic bag,Dry Waste,Recycle or reuse
+paper,Dry Waste,Recycle properly
+newspaper,Dry Waste,Send for recycling
+cardboard,Dry Waste,Flatten and recycle
+glass bottle,Dry Waste,Recycle carefully
+metal can,Dry Waste,Recycle in metal bin
+aluminum foil,Dry Waste,Clean and recycle
+tetra pack,Dry Waste,Recycle if facility available
+clothes,Dry Waste,Donate or recycle
+
+food waste,Wet Waste,Use for composting
+vegetable peels,Wet Waste,Put in green bin
+fruit waste,Wet Waste,Compost at home
+leftover food,Wet Waste,Use for compost or animal feed
+tea waste,Wet Waste,Compost
+coffee grounds,Wet Waste,Use as compost
+egg shells,Wet Waste,Compost
+flowers,Wet Waste,Compost naturally
+garden waste,Wet Waste,Use for composting
+
+battery,Hazardous Waste,Dispose at authorized e-waste center
+used battery,Hazardous Waste,Dispose at e-waste collection point
+medicine,Hazardous Waste,Return to pharmacy or medical waste bin
+expired medicine,Hazardous Waste,Dispose safely at pharmacy
+syringe,Hazardous Waste,Use medical waste disposal
+sanitary napkin,Hazardous Waste,Wrap and dispose separately
+diapers,Hazardous Waste,Dispose in designated bins
+paint can,Hazardous Waste,Dispose at hazardous waste center
+chemical cleaner,Hazardous Waste,Follow hazardous waste disposal rules
+pesticide bottle,Hazardous Waste,Return to authorized centers
+e-waste,Hazardous Waste,Recycle at certified e-waste center
+mobile phone,Hazardous Waste,E-waste recycling
+charger,Hazardous Waste,E-waste collection
+bulb,Hazardous Waste,Dispose carefully at collection centers
+tube light,Hazardous Waste,Dispose as hazardous waste
